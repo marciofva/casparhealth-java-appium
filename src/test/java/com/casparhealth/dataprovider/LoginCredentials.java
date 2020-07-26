@@ -6,8 +6,8 @@ public class LoginCredentials {
 	
 	public static HashMap<String, String> patientUser() {
 		HashMap<String, String> map = new HashMap<String, String>();
-		 map.put("emailOrId", "HLG7259");
-		 map.put("password", "40981352");
+		 map.put("emailOrId", "HBNX8321");
+		 map.put("password", "65479011");
 		return map;
 	}
 }
